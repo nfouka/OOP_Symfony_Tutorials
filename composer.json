@@ -1,0 +1,24 @@
+{
+    "name": "uga/oop-bundle",
+    "type": "symfony-bundle",
+    "description": "oop tutotials for symfony develeoper",
+    "keywords": ["pdf", "tcpdf", "html2pdf"],
+    "homepage": "https://github.com/nfouka",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nadir Fouka",
+            "email": "nadir.fouka@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-0": { "uga\\oopBundle": "" }
+    },
+    "target-dir": "uga/oopBundle"
+}

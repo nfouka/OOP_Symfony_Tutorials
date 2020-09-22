@@ -1,5 +1,5 @@
 {
-    "name": "uga/oop-bundle",
+    "name": "nfouka/oop-bundle",
     "type": "symfony-bundle",
     "description": "oop tutotials for symfony develeoper",
     "keywords": ["pdf", "tcpdf", "html2pdf"],
